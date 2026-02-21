@@ -5,6 +5,8 @@
 </div>
 
 ### About Me
+Mi name is Leo
+
 **Computer Science Student | Backend Specialist**
 
 I like to bring my ideas to life through programming, mainly to solve problems, although I also enjoy developing the craziest ideas that come to mind.
