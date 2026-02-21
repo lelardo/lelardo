@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-My name is Leo
+My name is Leo.
 
 **Computer Science Student | Backend Specialist**
 
