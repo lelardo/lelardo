@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75D13&width=435&lines=Hey%2C+what's+up%3F;I'm+Leo" alt="Typing SVG" />
   </a>
@@ -39,8 +39,3 @@ I enjoy building things that actually work, whether they are simple tools or mor
 * **Full-Stack:** I like handling both sides, from the user interface to the server and data.
 
 ---
-
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark" alt="My Stats" />
-</div>
